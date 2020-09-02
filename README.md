@@ -31,7 +31,6 @@ nsml run -e main.py  -m "A good message" -d hatespeech-1
       UNK: 0, PAD:1, SPACE:2,  BEGIN:3, EOF: 4
       
 - e.g.   {"syllable_contents": [3, 32, 218, 12, 25, 2, 205, 337, 16, 2, 113, 9, 2, 558, 195, 16, 2, 113, 17, 68, 2, 288, 51, 39, 12, 25, 4], "eval_reply": 0}   
-- 가혹한 제약조건 속에서도 창의적인 도전을 기원합니다.
 
 ### Format
 See AI Rush dataset documentation.
